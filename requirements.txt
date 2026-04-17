@@ -1,0 +1,3 @@
+# Python dependencies — dashboard only (the engine is pure C++)
+rich>=13.0
+requests>=2.28
