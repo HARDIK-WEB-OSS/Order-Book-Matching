@@ -1,0 +1,11 @@
+{
+  "total_orders": 100000,
+  "elapsed_seconds": 0.1622,
+  "throughput_orders_per_sec": 616542.00,
+  "avg_latency_us": 1.587,
+  "p50_latency_us": 0.921,
+  "p95_latency_us": 3.536,
+  "p99_latency_us": 6.723,
+  "total_trades_executed": 84938,
+  "total_volume_traded": 2166349951.33
+}

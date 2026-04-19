@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/stress_test.dir/benchmark/stress_test.cpp.o -o benchmark/stress_test  libengine.a 
